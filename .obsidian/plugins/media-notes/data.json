@@ -1,0 +1,20 @@
+{
+  "seekSeconds": 10,
+  "verticalPlayerHeight": 40,
+  "horizontalPlayerWidth": 40,
+  "defaultSplitMode": "Horizontal",
+  "pauseOnTimestampInsert": false,
+  "displayProgressBar": true,
+  "displayTimestamp": true,
+  "timestampOffsetSeconds": 6,
+  "backgroundColor": "#000000",
+  "progressBarColor": "#FF0000",
+  "timestampTemplate": "[{ts}]({link})\n",
+  "mediaData": {
+    "GcsTvY5Luz0": {
+      "mediaLink": "https://www.youtube.com/watch?v=GcsTvY5Luz0",
+      "lastUpdated": "2024-07-17T00:26:30.038Z",
+      "lastTimestampSeconds": 242
+    }
+  }
+}
