@@ -16,19 +16,75 @@
             }
           },
           {
-            "id": "f3cd76ee79aba6b1",
+            "id": "f472e79bf30dd7ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools.md",
+                "file": "Journals/2024-07-17.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0deb2f93317dcc6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journals/2024-07-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c41d0cec95951b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Project Overview Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "928c0ca1a77ad421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Critical Thinking/Tools.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "850f3951e52ed36b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb2bfd8f428cc348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily Journal Template.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -94,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools.md",
+                "file": "Templates/Project Overview Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools.md",
+                "file": "Templates/Project Overview Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,11 +190,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools.md"
+                "file": "Templates/Project Overview Template.md"
               }
             }
+          },
+          {
+            "id": "899dff727dae59d4",
+            "type": "leaf",
+            "state": {
+              "type": "journal-calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,15 +218,34 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "soundscapes:Soundscapes: My Music": false
+      "soundscapes:Soundscapes: My Music": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "20e76e061418fa99",
+  "active": "2c41d0cec95951b1",
   "lastOpenFiles": [
+    "Templates/Daily Journal Template.md",
+    "Templates/Project Overview Template.md",
+    "Journals/2024-07-19.md",
+    "Journals/2024-07-18.md",
+    "Journals/2024-07-17.md",
+    "Critical Thinking/Fallacies/Fallacies-Intro.md",
+    "Critical Thinking/Fallacies/Ad Hominem (\"against the person\").md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Critical Thinking/Tools.md",
+    "Templates",
+    "Theology",
+    "Journals/Drawing 2024-07-18 12.33.48.excalidraw.md",
     "README.md",
-    "Untitled",
     "create a link.md",
-    "Tools.md",
+    "Excalidraw/Drawing 2024-07-18 12.19.05.excalidraw.md",
+    "Excalidraw",
+    "Ad-H.md",
+    "Critical Thinking/Fallacies",
+    "Critical Thinking/Logical Fallacies.md",
+    "Journals",
+    "Critical Thinking",
     "Welcome.md",
     "Untitled.canvas"
   ]
