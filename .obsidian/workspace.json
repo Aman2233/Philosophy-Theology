@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/2024-07-17.md",
+                "file": "Journals/2024-07-23.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Journals/2024-07-19.md",
+                "file": "Journals/2024-07-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Project Overview Template.md",
+                "file": "Journals/2024-07-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Project Overview Template.md",
+                "file": "Journals/2024-07-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Project Overview Template.md"
+                "file": "Journals/2024-07-23.md"
               }
             }
           },
@@ -207,8 +207,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,15 +221,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c41d0cec95951b1",
+  "active": "f472e79bf30dd7ca",
   "lastOpenFiles": [
-    "Templates/Daily Journal Template.md",
-    "Templates/Project Overview Template.md",
+    "Journals/2024-07-22.md",
+    "Journals/2024-07-23.md",
+    "Journals/2024-07-21.md",
     "Journals/2024-07-19.md",
     "Journals/2024-07-18.md",
     "Journals/2024-07-17.md",
     "Critical Thinking/Fallacies/Fallacies-Intro.md",
     "Critical Thinking/Fallacies/Ad Hominem (\"against the person\").md",
+    "Templates/Project Overview Template.md",
+    "Templates/Daily Journal Template.md",
     "Untitled 1.md",
     "Untitled.md",
     "Critical Thinking/Tools.md",

@@ -1,7 +1,7 @@
 ---
-media: https://www.youtube.com/watch?v=EYIlGsL4W4E
+media: https://www.youtube.com/watch?v=EYIlGsL4W4E,
 Premise-Article: https://study.com/academy/lesson/how-to-identify-and-use-premise-and-conclusion-indicator-words.html
-tags: []
+site: https://www.khanacademy.org/partner-content/wi-phi/wiphi-critical-thinking
 ---
 
 Dr Jason
